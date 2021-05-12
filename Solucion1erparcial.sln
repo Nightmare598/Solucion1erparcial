@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiDoble", "apiDoble\apiDoble.csproj", "{FD7C663E-C730-4678-A194-CFBEBD3F39BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncImpar", "fncImpar\fncImpar.csproj", "{DF076262-2D31-4B50-BF3B-AEDF2F5CAEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncPar", "fncPar\fncPar.csproj", "{879AB5EA-FCA1-47F5-BE55-4E080868D0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7C663E-C730-4678-A194-CFBEBD3F39BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7C663E-C730-4678-A194-CFBEBD3F39BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7C663E-C730-4678-A194-CFBEBD3F39BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7C663E-C730-4678-A194-CFBEBD3F39BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF076262-2D31-4B50-BF3B-AEDF2F5CAEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF076262-2D31-4B50-BF3B-AEDF2F5CAEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF076262-2D31-4B50-BF3B-AEDF2F5CAEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF076262-2D31-4B50-BF3B-AEDF2F5CAEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879AB5EA-FCA1-47F5-BE55-4E080868D0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879AB5EA-FCA1-47F5-BE55-4E080868D0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879AB5EA-FCA1-47F5-BE55-4E080868D0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879AB5EA-FCA1-47F5-BE55-4E080868D0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {031CC50E-4E0C-47A6-92F7-6AD6A0159CF8}
+	EndGlobalSection
+EndGlobal
